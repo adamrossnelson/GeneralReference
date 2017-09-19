@@ -1,3 +1,10 @@
+// This file is designed to collect data from the US Census website.
+// After a short cleaning routine the resulting dataset provides state-by-state
+// and some regional information about populations in the United States.
+
+// By: Adam Ross Nelson JD PhD
+// Initial draft: September 2017
+
 set more off
 clear all
 
